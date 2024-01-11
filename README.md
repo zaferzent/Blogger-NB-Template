@@ -1,6 +1,8 @@
 # NB Template
 NB Blogger Template - Theme
 
+![GitHub Sponsor](https://img.shields.io/github/sponsors/zaferzent?label=Sponsor&logo=GitHub)
+
 NB theme is a responsive, light and fast template developed and edited by me, which I have previously used on my blogger-based personal blog.
 
 Source  : [Themelia Blogger Template](https://www.themeslab.net/2024/01/new-basic.html)
